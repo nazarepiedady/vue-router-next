@@ -61,7 +61,7 @@
     "attributes": "vetur/attributes.json"
   },
   "dependencies": {
-    "@vue/devtools-api": "^6.0.0-beta.18"
+    "@vue/devtools-api": "^6.0.0-beta.20"
   },
   "devDependencies": {
     "@microsoft/api-extractor": "^7.18.11",
